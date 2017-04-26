@@ -1,0 +1,10 @@
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+c:\users\wu\documents\visual studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+C:\Users\WU\Documents\Visual Studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+C:\Users\WU\Documents\Visual Studio 2012\Projects\TCPclient\TCPclient\obj\Debug\TCPclient.Form2.resources
